@@ -1,2 +1,5 @@
-print("HELLO Q")
-print("HELLO W")
+x = 32
+y = 2
+z = y**x
+print(z)
+
